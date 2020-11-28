@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on maltegrimm.io</title>
+    <link>https://maltegrimm.io/posts/</link>
+    <description>Recent content in Posts on maltegrimm.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maltegrimm.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>https://maltegrimm.io/posts/firstpost/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maltegrimm.io/posts/firstpost/</guid>
+      <description>&lt;p&gt;What is this all about?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

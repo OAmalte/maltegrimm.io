@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maltegrimm.io</title>
+    <link>https://maltegrimm.io/</link>
+    <description>Recent content on maltegrimm.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maltegrimm.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>https://maltegrimm.io/impressum/</link>
+      <pubDate>Sun, 22 Nov 2020 21:22:33 +0100</pubDate>
+      
+      <guid>https://maltegrimm.io/impressum/</guid>
+      <description>Angaben gemäß § 5 TMG Malte Grimm
+Saalburgstraß 4
+60385 Frankfurt am Main
+Kontakt Telefon: [Telefonnummer]
+E-Mail: mail@maltegrimm.io
+Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://maltegrimm.io/about/</link>
+      <pubDate>Sun, 22 Nov 2020 22:07:33 +0530</pubDate>
+      
+      <guid>https://maltegrimm.io/about/</guid>
+      <description>&lt;p&gt;A blog about things i do, mostly nerd, DIY and photo stuff.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>https://maltegrimm.io/posts/firstpost/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maltegrimm.io/posts/firstpost/</guid>
+      <description>&lt;p&gt;What is this all about?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frankfurt, Me</title>
+      <link>https://maltegrimm.io/photos/frankfurt-dippemess/</link>
+      <pubDate>Wed, 17 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://maltegrimm.io/photos/frankfurt-dippemess/</guid>
+      <description>It&amp;rsquo;s me with a tiny camera, photographed with a huge camera!
+Mamiya C33
+Mamiya Sekor 80mm f/2.8
+Kodak Portra 160</description>
+    </item>
+    
+    <item>
+      <title>Maroc, Essaouira</title>
+      <link>https://maltegrimm.io/photos/maroc-essaouira/</link>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://maltegrimm.io/photos/maroc-essaouira/</guid>
+      <description>Maroc, Essaouira - A boat all build by hand. And for some reason all fisher boats need to be blue.
+Mamiya C33
+Mamiya Sekor 80mm f/2.8
+Fujichrome Velvia 50</description>
+    </item>
+    
+    <item>
+      <title>Maroc, Beach</title>
+      <link>https://maltegrimm.io/photos/maroc-beach/</link>
+      <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://maltegrimm.io/photos/maroc-beach/</guid>
+      <description>I can&amp;rsquo;t remember the exact place, somewhere at the atlantic ocean.
+Mamiya C33
+Mamiya Sekor 80mm f/2.8
+Kodak Tmax 100</description>
+    </item>
+    
+  </channel>
+</rss>

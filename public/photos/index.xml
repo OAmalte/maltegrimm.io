@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on maltegrimm.io</title>
+    <link>https://maltegrimm.io/photos/</link>
+    <description>Recent content in Photos on maltegrimm.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://maltegrimm.io/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frankfurt, Me</title>
+      <link>https://maltegrimm.io/photos/frankfurt-dippemess/</link>
+      <pubDate>Wed, 17 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://maltegrimm.io/photos/frankfurt-dippemess/</guid>
+      <description>It&amp;rsquo;s me with a tiny camera, photographed with a huge camera!
+Mamiya C33
+Mamiya Sekor 80mm f/2.8
+Kodak Portra 160</description>
+    </item>
+    
+    <item>
+      <title>Maroc, Essaouira</title>
+      <link>https://maltegrimm.io/photos/maroc-essaouira/</link>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://maltegrimm.io/photos/maroc-essaouira/</guid>
+      <description>Maroc, Essaouira - A boat all build by hand. And for some reason all fisher boats need to be blue.
+Mamiya C33
+Mamiya Sekor 80mm f/2.8
+Fujichrome Velvia 50</description>
+    </item>
+    
+    <item>
+      <title>Maroc, Beach</title>
+      <link>https://maltegrimm.io/photos/maroc-beach/</link>
+      <pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://maltegrimm.io/photos/maroc-beach/</guid>
+      <description>I can&amp;rsquo;t remember the exact place, somewhere at the atlantic ocean.
+Mamiya C33
+Mamiya Sekor 80mm f/2.8
+Kodak Tmax 100</description>
+    </item>
+    
+  </channel>
+</rss>
