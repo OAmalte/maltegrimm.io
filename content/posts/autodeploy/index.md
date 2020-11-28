@@ -1,5 +1,5 @@
   
-+++ title = "Testing auto deployment" date = "2020-11-27" +++
++++ title = "Testing auto deployment" date = "2020-11-28" +++
 
 # Testing my CI/CD Pipeline
 <!--more-->
