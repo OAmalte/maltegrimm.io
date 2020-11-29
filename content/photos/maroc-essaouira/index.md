@@ -11,4 +11,4 @@ Mamiya C33
 
 Mamiya Sekor 80mm f/2.8
 
-Fujichrome Velvia 50
+Kodak Potra 160
