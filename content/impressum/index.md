@@ -11,7 +11,7 @@ Saalburgstraß 4
 60385 Frankfurt am Main
 
 ## Kontakt
-Telefon: [Telefonnummer]
+Telefon: [1234567890]
 
 E-Mail: mail@maltegrimm.io
 
