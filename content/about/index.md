@@ -27,6 +27,7 @@ Kodak T-Max 100
 
 
 ### License
+I've made some modifications, but this is the original theme:
 
 Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)
 
